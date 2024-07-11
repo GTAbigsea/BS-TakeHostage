@@ -1,4 +1,4 @@
-# Robbster's "Takehostage"
+# BigSea's "Takehostage"
 
 Instructions:
 Type /takehostage or use ox target, requires valid weapon (add or remove weapons in cl_takehostage.lua)
